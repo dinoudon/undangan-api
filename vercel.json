@@ -7,7 +7,7 @@
         }
     },
     "headers": [{
-            "source": "/(.*)",
+            "source": "api/*.php",
             "headers": [{
                     "key": "Access-Control-Allow-Credentials",
                     "value": "true"
